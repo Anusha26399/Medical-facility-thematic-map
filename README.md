@@ -1,4 +1,5 @@
-# Medical-facility-thematic-map:To know about the areas lagging behind medical facilities as recently due to increased medical risks for instance recently during Navaratri festivities of Gujarat took a tragic turn as the joyous rhythms of Garba were marred by a series of unexpected heart attack deaths
+# Medical-facility-thematic-map
+To know about the areas lagging behind medical facilities
 
 Collected the location data of medical facilities, schools.
 Extraction of the targeted shapefile using QGIS.
